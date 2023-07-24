@@ -12,18 +12,19 @@ En y ajoutant des points sauté .
 Le tutoriel de Guillaume Gomez n'aborde pas [l'installation](https://www.rust-lang.org/fr/tools/install)
 le site rust-lang.org la décrit
 
-elle ce fait par la commande suivante:
+elle ce fait par la commande suivante que l'on trouvera sur [rustup.rs](https://rustup.rs/)
 
 > curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
 
 La commande installe la chaîne d'outils Rust incluant
  * **rustc** le compilateur,
  * **cargo** le système de construction et le gestionnaire de paquets de Rust
- * **rustup** le toolchain manager.
+ * **rustup**  est un installeur pour le language Rust .
 
 
- Qui permet de mettre à jour le langage de programmation Rust à partir des canaux de diffusion officiels
+ la commande **rustup update** mettra à jour le compilateur et les outils
 
- la commande **rustup update** mettra à jour le comilateur et les outils
+ ## Le premier programme
 
- 
+Guillaume Gomez nous [propose](https://blog.guillaume-gomez.fr/Rust/1/3) la création d'un **Hello world classique**
