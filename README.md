@@ -1,11 +1,12 @@
 # hello-rust
 
 ## Introduction
-L'object de ce dépôt est de construire un atelier de découverte du langage **Rust** dans le cadre de l'initiation au codage d'Ada-flow .
+L'object de ce dépôt est de construire un atelier de découverte du langage **Rust** dans le cadre de l'initiation au codage d'Ada-flow.
 
-on utilisera le tutoriel de [Guillaume Gomez](https://blog.guillaume-gomez.fr/Rust)
+Pour cela on utilisera le tutoriel de [Guillaume Gomez](https://blog.guillaume-gomez.fr/Rust)
 
-En y ajoutant des points sauté .
+En y ajoutant des points sautés et des exercices de code fait en python3.
+
 
 ## l'installation
 
