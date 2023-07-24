@@ -28,3 +28,5 @@ La commande installe la chaîne d'outils Rust incluant
  ## Le premier programme
 
 Guillaume Gomez nous [propose](https://blog.guillaume-gomez.fr/Rust/1/3) la création d'un **Hello world classique**
+
+Nous verrons ensuite qu'il exsite dans **rust** une proposition d'organisation des projets
