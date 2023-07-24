@@ -125,4 +125,27 @@ exemple :
 >def addition ( x, y ) :
    return x+ y
 >      
-print(addition(1,2))
+> print(addition(1,2))
+
+
+**Noter** : Tous les appels ayant un '!' ne sont pas des fonctions, mais des macros.
+
+### Les expressions
+
+À [Lire](https://blog.guillaume-gomez.fr/Rust/1/7) attentivement
+
+
+### Les boucles
+
+C'est plus classique ;-)
+
+* **while**
+
+* **loop**
+
+* **for**
+
+Quoique :
+
+* **Énumération**
+* **boucles nommées**
